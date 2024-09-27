@@ -1,0 +1,17 @@
+commit 26ace60ef9663ba1af887ef8d81af9dda6146075
+Author: Calvin Tucker <ctucker@mines.edu>
+Date:   Fri Sep 27 12:26:39 2024 -0600
+
+    added code
+
+commit 4731d52f00edd9385d41f8a6a56e72421bf0ffb7
+Author: Calvin Tucker <ctucker@mines.edu>
+Date:   Fri Sep 27 12:23:38 2024 -0600
+
+    second commit
+
+commit 96c1d2af1b770917005af9fbabd806a00991d431
+Author: Calvin Tucker <ctucker@mines.edu>
+Date:   Fri Sep 27 12:23:05 2024 -0600
+
+    first commit
