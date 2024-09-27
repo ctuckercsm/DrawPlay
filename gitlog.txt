@@ -1,3 +1,9 @@
+commit 8fe8ab8cff54587a51a80aca42008c39afe0e017
+Author: Kr1ngle <118485599+Kr1ngle@users.noreply.github.com>
+Date:   Fri Sep 27 12:35:38 2024 -0600
+
+    changed cat head to red - Ethan Tran
+
 commit 1f6ddb13dd6ee122b5914390bf5fbbfb7f63c504
 Author: Calvin Tucker <ctucker@mines.edu>
 Date:   Fri Sep 27 12:29:42 2024 -0600
