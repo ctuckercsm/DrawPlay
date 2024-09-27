@@ -1,3 +1,9 @@
+commit 1d4f83f3ce140c6a2e56d74a1e0226765d43aaea
+Author: Kr1ngle <118485599+Kr1ngle@users.noreply.github.com>
+Date:   Fri Sep 27 12:39:05 2024 -0600
+
+    changed cat mouth to green - Ethan Tran
+
 commit 3dee8a2e6cf155010b900ed8bd481f3e82efb9fb
 Author: Calvin Tucker <ctucker@mines.edu>
 Date:   Fri Sep 27 12:38:03 2024 -0600
