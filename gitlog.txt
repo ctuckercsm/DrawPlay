@@ -1,3 +1,9 @@
+commit 1f6ddb13dd6ee122b5914390bf5fbbfb7f63c504
+Author: Calvin Tucker <ctucker@mines.edu>
+Date:   Fri Sep 27 12:29:42 2024 -0600
+
+    added gitlog - Calvin Tucker
+
 commit 26ace60ef9663ba1af887ef8d81af9dda6146075
 Author: Calvin Tucker <ctucker@mines.edu>
 Date:   Fri Sep 27 12:26:39 2024 -0600
