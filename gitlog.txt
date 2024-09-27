@@ -1,3 +1,9 @@
+commit 0cf7184a2691092a64d40256ef76733caee97861
+Author: Kr1ngle <118485599+Kr1ngle@users.noreply.github.com>
+Date:   Fri Sep 27 12:42:05 2024 -0600
+
+    added a 0 to eye_height and eye_width - Ethan Tran
+
 commit 91dd32b6d7b83a73fba4a4a4c07cd424d62e2be7
 Author: Calvin Tucker <ctucker@mines.edu>
 Date:   Fri Sep 27 12:40:46 2024 -0600
